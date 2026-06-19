@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alexamiclencorso.github.io/chinese-official-leyu-com-2/sitemap.xml

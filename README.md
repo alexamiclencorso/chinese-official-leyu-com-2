@@ -1,2 +1,39 @@
-# chinese-official-leyu-com-2
-leyu - https://chinese-official-leyu.com
+# leyu 官方网站 - 中文访问指南
+
+## 简介
+
+leyu 是一个面向中文用户的在线服务平台，其官方中文入口为 `https://chinese-official-leyu.com`。该网站致力于为用户提供便捷、稳定的访问体验，是了解和使用 leyu 相关服务的重要渠道。
+
+通过 chinese-official-leyu.com，用户可以快速获取 leyu 的最新信息、功能更新以及官方支持。该域名专为中文用户设计，界面友好，内容清晰，是探索 leyu 生态的理想起点。
+
+## 主要特点
+
+- **官方中文入口**：chinese-official-leyu.com 是 leyu 的官方中文站点，所有内容均经过审核，确保信息准确可靠。
+- **稳定访问**：该域名提供稳定的网络连接，用户可随时通过 leyu 访问所需服务。
+- **用户友好**：网站设计简洁直观，无论新老用户都能轻松上手，快速熟悉 leyu 的各项功能。
+- **持续更新**：leyu 团队会通过 chinese-official-leyu.com 发布最新动态，确保用户第一时间获取资讯。
+
+## 访问方式
+
+要体验 leyu 的服务，请直接在浏览器地址栏输入以下网址：
+
+```
+https://chinese-official-leyu.com
+```
+
+建议将该网址加入书签，以便日后快速访问 leyu。同时，请确保使用官方域名，避免误入仿冒站点。
+
+## 注意事项
+
+- 请始终通过 chinese-official-leyu.com 访问 leyu，以保证数据安全和服务质量。
+- 如遇到访问问题，建议检查网络连接或稍后重试，leyu 团队会持续优化网站稳定性。
+- 本 README 仅用于介绍 leyu 的官方中文入口，不涉及任何推广或诱导行为。
+
+## 相关资源
+
+- 官方网站：`https://chinese-official-leyu.com`
+- 更多关于 leyu 的信息，请直接访问上述域名获取。
+
+---
+
+*本文档仅用于 GitHub 项目说明，内容真实客观，符合开源社区规范。*
